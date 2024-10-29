@@ -6,6 +6,7 @@ import Rating from './components/Rating'
 const Home = () => {
   return (
     <div>
+      <h1> my movies list</h1>
       <Movies/>
     </div>
   )
